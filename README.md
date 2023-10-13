@@ -9,15 +9,15 @@
 
 | No. | Questions |
 |-----| --------
-|1  | [What is Angular ?](#What-is-angular?)|
-|2  | [What are the key features of Angular?](#What-are-the-key-features-of-angular?)|
-|3  | [Command for Create new project , component ,service?](#command-for-create-project-component-service?)|
-|4  | [Explain two-way data binding in Angular?](#explain-two-way-data-binding-in-angular?)|
-|5  | [What is dependancy Injection in Angular?](#what-is-dependancy-injection-in-angular?)|
+|1  | [What is Angular ?](#what-is-angular)|
+|2  | [What are the key features of Angular?](#what-are-the-key-features-of-angular)|
+|3  | [Command for Create new project](#command-for-create-new-project)|
+|4  | [Explain two-way data binding in Angular?](#explain-two-way-data-binding-in-angular)|
+|5  | [What is dependancy Injection in Angular?](#what-is-dependancy-injection-in-angular)|
 |6  | [Explain Angular modules](#explain-angular-modules)|
-|7  | [What is an Angular directive?](#what-is-an-angular-directive?)|
-|8  | [What is Angular component?](#what-is-angular-component?)|
-|9  | [What are the key components of Angular?](#what-are-the-key-component-of-angular?)|
+|7  | [What is an Angular directive?](#what-is-an-angular-directive)|
+|8  | [What is Angular component?](#what-is-angular-component)|
+|9  | [What are the key components of Angular?](#what-are-the-key-components-of-angular)|
 
 
 
@@ -61,10 +61,9 @@
 
 2. ### What are the key features of Angular?
  key features of Angular include two-way data binding, dependency injection,
- modularity, templates ,directives, components, and a poweful CLI for scaffolding and 
- managing
+ modularity, templates ,directives, components, and a poweful CLI for scaffolding and managing
 
-3. ### Command for Create new project , component ,service?
+3. ### Command for Create new project
   
    1. Create a New Angular Project 
         ```javascript
