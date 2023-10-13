@@ -10,9 +10,9 @@
 | No. | Questions |
 |-----| --------
 |1  | [What is Angular ?](#What-is-angular?)|
-|2  | [What are the key features of Angular ?](#What-are-the-key-features-of-angular?)|
-|3  | [Command for Create new project , component ,service ?](#command-for-create-project-component-service?)|
-|4  | [Explain two-way data binding in Angular ?](#explain-two-way-data-binding-in-angular?)|
+|2  | [What are the key features of Angular?](#What-are-the-key-features-of-angular?)|
+|3  | [Command for Create new project , component ,service?](#command-for-create-project-component-service?)|
+|4  | [Explain two-way data binding in Angular?](#explain-two-way-data-binding-in-angular?)|
 |5  | [What is dependancy Injection in Angular?](#what-is-dependancy-injection-in-angular?)|
 |6  | [Explain Angular modules](#explain-angular-modules)|
 |7  | [What is an Angular directive?](#what-is-an-angular-directive?)|
@@ -55,7 +55,7 @@
 
 
 
-1. ### What is angular?
+1. ### What is Angular?
  Angular is a popular open-source web application framework developed by Google.
  It is used for building dynamic and single-page web applications (SPAs) with enhanced user experiences.
 
@@ -64,7 +64,7 @@
  modularity, templates ,directives, components, and a poweful CLI for scaffolding and 
  managing
 
-3. ### Command for Create new project, component ,service?
+3. ### Command for Create new project , component ,service?
   
    1. Create a New Angular Project 
         ```javascript
